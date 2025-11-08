@@ -121,7 +121,7 @@ php-learning/
 **Overall Progress:**  
 🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜ (≈ 30%)
 
-![Progress](https://img.shields.io/badge/Progress-45%25-brightgreen?style=for-the-badge)
+
 ![Status](https://img.shields.io/badge/Stage-Learning-blue?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-PHP-purple?style=flat-square)
 
