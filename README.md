@@ -55,6 +55,59 @@ This repo serves as my **public progress tracker**, showing how far I’ve come 
 - [ ] File Handling
 - [ ] Sessions & State Management
 
+
+
+php-learning/
+├── 01-basics/
+│   ├── syntax.php
+│   ├── variables.php
+│   ├── operators.php
+│   ├── conditionals.php
+│   ├── loops.php
+│   ├── arrays.php
+│   ├── strings_functions.php
+│   └── superglobals.php
+├── 02-functions/
+│   ├── basic-functions.php
+│   ├── parameters-return.php
+│   ├── default-arguments.php
+│   ├── scope-static.php
+│   └── builtin-functions.php
+└── 03-oop/
+|   ├── classes-objects.php
+|   ├── properties-methods.php
+|   ├── constructors-destructors.php
+|   ├── inheritance.php
+|   ├── interfaces-traits.php
+|   ├── access-modifiers.php
+|   └── static-methods.php
+└── formhandler/
+|   ├── formhandler.php
+|   ├── index.php
+└── login-register/
+|   ├── database.php
+|   ├── index.php
+|   ├── login.php
+|   ├── logout.php
+|   ├── registration.php
+|   ├── style.css
+└── php-CRUD-operations/
+|   ├── connect.php
+|   ├── create.php
+|   ├── delete.php
+|   ├── edit.php
+|   ├── index.php
+|   ├── process.php
+|   ├── style.css
+|   ├── view.php
+└── --next--/
+
+
+
+
+
+
+
 ---
 
 ## 📊 Progress Tracker
