@@ -57,30 +57,14 @@ This repo serves as my **public progress tracker**, showing how far I’ve come 
 
 
 
-php-learning/
-├── 01-basics/
-│   ├── syntax.php
-│   ├── variables.php
-│   ├── operators.php
-│   ├── conditionals.php
-│   ├── loops.php
-│   ├── arrays.php
-│   ├── strings_functions.php
-│   └── superglobals.php
-├── 02-functions/
-│   ├── basic-functions.php
-│   ├── parameters-return.php
-│   ├── default-arguments.php
-│   ├── scope-static.php
-│   └── builtin-functions.php
-└── 03-oop/
-    ├── classes-objects.php
-    ├── properties-methods.php
-    ├── constructors-destructors.php
-    ├── inheritance.php
-    ├── interfaces-traits.php
-    ├── access-modifiers.php
-    └── static-methods.php
+
+### 📁 Folder Overview
+
+| Folder | Description |
+|--------|--------------|
+| `01-basics/` | Core PHP syntax, operators, and loops |
+| `02-functions/` | Function creation and use cases |
+| `03-oop/` | Classes, inheritance, and OOP concepts |
 
 
 
