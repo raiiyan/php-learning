@@ -60,7 +60,7 @@ This repo serves as my **public progress tracker**, showing how far I’ve come 
 ## 📊 Progress Tracker
 
 **Overall Progress:**  
-🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜ (≈ 45%)
+🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜ (≈ 30%)
 
 ![Progress](https://img.shields.io/badge/Progress-45%25-brightgreen?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Stage-Learning-blue?style=flat-square)
